@@ -20,7 +20,7 @@ import openai
 import pyttsx3
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "your API key "
 
 
 engine = pyttsx3.init()
